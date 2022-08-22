@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot del componente GifGridItem 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Título"
+      src="https://wallpaperaccess.com/full/1292603.jpg"
+    />
+    <p>
+      Título
+    </p>
+  </div>
+</div>
+`;
